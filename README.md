@@ -1,1 +1,1 @@
-# SoftUni-Fundamentals
+# Programming fundamentals
